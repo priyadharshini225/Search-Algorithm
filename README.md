@@ -18,11 +18,11 @@ To write a program to perform linear search and binary search using python progr
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
 i)	#Use a linear search method to match the item in a list.
-''' 
+```
 Program for linear search method to match the item in a list
 Developed by:Dharshan D
 RegisterNumber: 23001663
-'''
+```
 ```
 def linearSearch(array,n,k):
     for i in range(0,n):
