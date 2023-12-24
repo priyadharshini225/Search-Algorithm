@@ -89,8 +89,8 @@ else:
     print("Element found at index: ",result)    
 ```
 ## Output:
-![OUTPUT](/output1.png)
 ![OUTPUT](/output2.png)
 ![OUTPUT](/output3.png)
+![OUTPUT](/output4.png)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
